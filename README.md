@@ -3,7 +3,7 @@
 Welcome to the **Myntra Clone** project! This is a front-end replica of the popular e-commerce platform Myntra, built using HTML, CSS, and JavaScript. The goal of this project is to showcase UI development skills by recreating the look and feel of the original website.
 
 ## 🌐 **Live Demo**
-(https://whycallmesk.github.io/MyntraClone/)
+[https://myntra-clone-whycallmesks-projects.vercel.app/](https://myntra-clone-whycallmesks-projects.vercel.app/)
 
 ---
 
